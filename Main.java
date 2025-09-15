@@ -13,5 +13,6 @@ public class Main {
         String course = s.nextLine();
         System.out.println("Hello, " + course + "!");
 
+
     }
 }
