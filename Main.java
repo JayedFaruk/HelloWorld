@@ -12,5 +12,6 @@ public class Main {
         s = new Scanner(f);
         String course = s.nextLine();
         System.out.println("Hello, " + course + "!");
+
     }
 }
